@@ -92,7 +92,6 @@
   </div>
 </div>
 
-
 ## 🐍 Contribution Graph
 
 <div class="contribution-graph">
@@ -108,20 +107,27 @@
 ## 📚 Featured Repositories
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; width: 100%; max-width: 1200px;">
+  <div>
     <a href="https://github.com/MuratGuelr/youtube_download_by_consolaktif">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=youtube_download_by_consolaktif&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="YouTube Downloader" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=youtube_download_by_consolaktif&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="YouTube Downloader" />
     </a>
     <a href="https://github.com/MuratGuelr/ConsolAktif">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=ConsolAktif&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="ConsolAktif" />
-    </a>
-    <a href="https://github.com/MuratGuelr/my-electron-app">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=my-electron-app&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Electron App" />
-    </a>
-    <a href="https://github.com/MuratGuelr/Auto-editor">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=Auto-editor&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Auto Editor" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=ConsolAktif&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="ConsolAktif" />
     </a>
   </div>
+  <div>
+    <a href="https://github.com/MuratGuelr/my-electron-app">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=my-electron-app&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Electron App" />
+    </a>
+    <a href="https://github.com/MuratGuelr/Auto-editor">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=Auto-editor&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Auto Editor" />
+    </a>
+  </div>
+  
+  <br/>
+  <a href="https://github.com/MuratGuelr?tab=repositories" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-1a1b27?style=for-the-badge&logoColor=white&logo=repo&labelColor=2F80ED" alt="All Repositories" />
+  </a>
 </div>
 
 ### 🤝 Let's Connect
