@@ -78,6 +78,12 @@
   </a>
 </div>
 
+### ⚡ Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuratGuelr&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae" alt="GitHub Streak Stats" />
+</div>
+
 ### 📊 GitHub Stats
 
 <div class="github-stats">
