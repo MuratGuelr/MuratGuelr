@@ -78,6 +78,12 @@
   </a>
 </div>
 
+### ⚡ Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuratGuelr&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae" alt="GitHub Streak Stats" />
+</div>
+
 ### 📊 GitHub Stats
 
 <div class="github-stats">
@@ -130,14 +136,25 @@
   </a>
 </div>
 
+<br/>
+
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/MuratGuelr">
-    <img class="connect-badge" src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/MuratGuelr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=2F80ED" alt="GitHub" />
   </a>
-  <a href="mailto:consolaktifofficial@gmail.com">
-    <img class="connect-badge" src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:consolaktifofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2F80ED" alt="Email" />
+  </a>
+    &nbsp;&nbsp;
+    <a href="https://www.youtube.com/@muratguler" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2F80ED" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muratguler" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2F80ED" alt="LinkedIn" />
   </a>
 </div>
 
@@ -147,6 +164,12 @@
   <i>"The journey of a thousand miles begins with a single step."</i>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ajiq3dzak6nrbjzaeyad727fvu&unique=true&count=2&theme=tokyonight&background_color=1a1b27&border_color=2F80ED&text_color=70a5fd&title_color=38bdae" alt="Spotify Recently Played" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=70a5fd&animation=twinkling&fontAlignY=65&background=1a1b27" width="100%"/>
 </div>
