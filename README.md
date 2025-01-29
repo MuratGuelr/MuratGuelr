@@ -147,7 +147,7 @@
     <img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2F80ED" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muratguler" target="_blank">
+  <a href="https://www.linkedin.com/in/muratguelr" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2F80ED" alt="LinkedIn" />
   </a>
 </div>
