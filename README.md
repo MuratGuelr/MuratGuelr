@@ -143,7 +143,7 @@
     <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2F80ED" alt="Email" />
   </a>
     &nbsp;&nbsp;
-    <a href="https://www.youtube.com/@muratguler" target="_blank">
+    <a href="[https://www.youtube.com/@ConsolAktif/videos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2F80ED" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
