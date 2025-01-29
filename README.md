@@ -108,7 +108,7 @@
 
 <div align="center">
   <div>
-    <a href="https://github.com/MuratGuelr/youtube_download_by_consolaktif">
+    <a href="[https://github.com/MuratGuelr/youtube_download_by_consolaktif](https://www.youtube.com/@ConsolAktif/videos)">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=youtube_download_by_consolaktif&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="YouTube Downloader" />
     </a>
     <a href="https://github.com/MuratGuelr/ConsolAktif">
