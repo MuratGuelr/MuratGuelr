@@ -108,7 +108,7 @@
 
 <div align="center">
   <div>
-    <a href="[https://github.com/MuratGuelr/youtube_download_by_consolaktif](https://www.youtube.com/@ConsolAktif/videos)">
+    <a href="https://github.com/MuratGuelr/youtube_download_by_consolaktif">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=youtube_download_by_consolaktif&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="YouTube Downloader" />
     </a>
     <a href="https://github.com/MuratGuelr/ConsolAktif">
@@ -143,7 +143,7 @@
     <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2F80ED" alt="Email" />
   </a>
     &nbsp;&nbsp;
-    <a href="[https://www.youtube.com/@ConsolAktif/videos" target="_blank">
+    <a href="https://www.youtube.com/@ConsolAktif/videos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2F80ED" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
