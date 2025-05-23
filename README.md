@@ -4,10 +4,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED¢er=true&vCenter=true&width=520&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;I+am+Murat+Güler%2C+a+Front-End+Developer;Building+Beautiful+and+Functional+Interfaces" width="100%" />
-</div>
-
-<div align="center">
   <a href="https://github.com/MuratGuelr?tab=followers">
     <img src="https://img.shields.io/github/followers/MuratGuelr?label=Followers&style=for-the-badge&color=1a1b27&labelColor=2F80ED" alt="GitHub Followers" />
   </a>
