@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Murat Güler 👋</h1>
-  <p><strong>Front-End Developer | React.js | JavaScript | HTML5 & CSS3 | Building User-Centric Web Applications specializing in React.js, passionate about creating intuitive and performant user interfaces.</strong></p>
+  <p><strong>React.js Front-End Developer | JavaScript | HTML5 & CSS3 | Building intuitive and performant user interfaces for user-centric web applications.</strong></p>
 </div>
 
 <div align="center">
@@ -44,6 +44,7 @@ I'm a Front-End Developer with a strong passion for building engaging, user-frie
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="48" height="48" /></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="48" height="48" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /></a>
   
 </div>
 
@@ -73,7 +74,6 @@ I'm a Front-End Developer with a strong passion for building engaging, user-frie
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuratGuelr&theme=tokyo-night&area=true&hide_border=true" width="100%" class="activity-animation"/>
 </div>
 
-<p>Here are a couple of projects I'm particularly proud of. Check out my other work in the repositories tab!</p>
 <br/>
 
 ## 📚 Featured Repositories
